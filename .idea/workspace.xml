@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d44f4ed-499a-4b3c-bb70-e14a6c8cf210" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resumen7.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resumen8.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resumen7.ejs" afterPath="$PROJECT_DIR$/Resumen7.ejs" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,16 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Resumen1.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Resumen1.ejs">
           <provider selected="true" editor-type-id="text-editor">
@@ -123,11 +114,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Resumen7.ejs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Resumen7.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Resumen7.ejs">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Resumen8.ejs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Resumen8.ejs">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="9" column="61" lean-forward="false" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+              <caret line="9" column="78" lean-forward="false" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -170,6 +173,7 @@
         <option value="$PROJECT_DIR$/Resumen5.ejs" />
         <option value="$PROJECT_DIR$/Resumen6.ejs" />
         <option value="$PROJECT_DIR$/Resumen7.ejs" />
+        <option value="$PROJECT_DIR$/Resumen8.ejs" />
       </list>
     </option>
   </component>
@@ -244,12 +248,12 @@
       <option name="presentableId" value="Default" />
       <updated>1507822061257</updated>
       <workItem from="1507822064399" duration="1575000" />
-      <workItem from="1508465731397" duration="14558000" />
+      <workItem from="1508465731397" duration="15300000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16133000" />
+    <option name="totallyTimeSpent" value="16875000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="285" width="1368" height="780" extended-state="6" />
@@ -491,8 +495,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Resumen7.ejs">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resumen8.ejs">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="9" column="61" lean-forward="false" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+          <caret line="9" column="78" lean-forward="false" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
           </folding>
